@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Data
+data/
+
+#System
+.Ds_Store
+Thumbs.db
+
+#power BI source data
+powerbi/*.csv
